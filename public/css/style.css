@@ -168,4 +168,8 @@ body{
     .logo-contact a{
         margin: 6%;
     }
+
+    .portfolio-image {
+        margin-bottom: 5%;
+    }
 }
