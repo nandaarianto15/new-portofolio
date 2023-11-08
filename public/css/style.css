@@ -18,7 +18,6 @@ body{
 }
 
 ::-webkit-scrollbar-thumb {
-    /* background: linear-gradient(45deg,#d245c4,#5e51f0)!important; */
     background: #2BA0C4;
     border-radius: 5px;
 }
